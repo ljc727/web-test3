@@ -23,5 +23,8 @@ public class Test2 {
 		System.out.println("11");
 		System.out.println("22");
 	}
+	
+	public void test1() {
+	}
 
 }
