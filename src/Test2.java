@@ -13,6 +13,7 @@ public class Test2 {
 		System.out.println("555"));
 		System.out.println("6666");
 >>>>>>> refs/heads/test3
+		System.out.println("11");
 	}
 
 }
