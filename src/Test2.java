@@ -11,6 +11,7 @@ public class Test2 {
 		
 		System.out.println("em2");
 		System.out.println("master1");
+		System.out.println("master~~~");
 
 	}
 
