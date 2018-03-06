@@ -15,6 +15,8 @@ public class Test2 {
 		System.out.println("master222");
 		System.out.println("em");
 		
+		System.out.println("1");
+		
 	}
 
 }
